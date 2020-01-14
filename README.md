@@ -1,1 +1,1 @@
-# Web Design and UX Engineering Initial Repo
+# Web Design and UX Engineering Project
